@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 - Languages: C/C++, JavaScript/TypeScript, Go
-- Tools: Git, Docker, Linux,AWS
+- Tools: Git, Docker, Linux, Amazon AWS
 
 ## 📫 Contact
 - GitHub: https://github.com/james-yusuke
