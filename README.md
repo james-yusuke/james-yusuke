@@ -12,9 +12,6 @@ Welcome to my GitHub profile!
 - Languages: C/C++, JavaScript/TypeScript, Go
 - Tools: Git, Docker, Linux, Amazon AWS
 
-## 📫 Contact
-- GitHub: https://github.com/james-yusuke
-- Telegram: https://t.me/jamesbobgray
 ---
 
 Thanks for visiting 🚀
