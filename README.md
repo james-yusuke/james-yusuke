@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 - GitHub: https://github.com/james-yusuke
-
+- Telegram: https://t.me/jamesbobgray
 ---
 
 Thanks for visiting 🚀
