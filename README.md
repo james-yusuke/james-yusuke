@@ -12,6 +12,10 @@ Welcome to my GitHub profile!
 - Languages: C/C++, JavaScript/TypeScript, Go
 - Tools: Git, Docker, Linux, Amazon AWS
 
+## 📫 Contact
+- GitHub: https://github.com/james-yusuke
+- Zenn: https://zenn.dev/jamesbob
+
 ---
 
 Thanks for visiting 🚀
