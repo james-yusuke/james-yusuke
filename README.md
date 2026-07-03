@@ -3,14 +3,17 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 💻 I’m interested in software development and systems design
-- 📊 I also enjoy working with data algorithms
-- 🧠 Currently learning and building projects to improve my engineering skills
+- 🧩 Programming language researcher and systems developer
+- 🔐 Interested in cybersecurity, vulnerability research, and secure software
+- 💻 Building programming languages, compilers, and developer tools
+- 📊 I also enjoy algorithms and systems design
+- 🧠 Always learning through open source contributions
 - 🌏 Based in Japan
 
 ## 🛠️ Tech Stack
-- Languages: C/C++, JavaScript/TypeScript, Go
-- Tools: Git, Docker, Linux, Amazon AWS
+- Languages: C/C++, Go, JavaScript/TypeScript
+- Interests: Programming Languages, Compiler Design, Cybersecurity
+- Tools: Git, Docker, Linux, AWS
 
 ## 📫 Contact
 - GitHub: https://github.com/james-yusuke
