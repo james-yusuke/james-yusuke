@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ## 📫 Contact
 - GitHub: https://github.com/james-yusuke
 - Zenn: https://zenn.dev/jamesbob
+- Codeberg: https://codeberg.org/james-yusuke
 
 ---
 
