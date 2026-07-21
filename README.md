@@ -20,6 +20,7 @@ Welcome to my GitHub profile!
 - GitHub: https://github.com/james-yusuke
 - Zenn: https://zenn.dev/jamesbob
 - Codeberg: https://codeberg.org/james-yusuke
+- Discord: james_yusuke
 
 ## 🌱 Open Source
 
