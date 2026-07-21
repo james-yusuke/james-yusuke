@@ -17,6 +17,7 @@ Welcome to my GitHub profile!
 - Tools: Git, Docker, Linux, AWS
 
 ## 📫 Contact
+- Email: contact@yecov.com
 - GitHub: https://github.com/james-yusuke
 - Zenn: https://zenn.dev/jamesbob
 - Codeberg: https://codeberg.org/james-yusuke
