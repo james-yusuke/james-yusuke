@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 - 🧩 Programming language researcher and systems developer
 - 🔐 Interested in cybersecurity, vulnerability research, and secure software
 - 💻 Building programming languages, compilers, and developer tools
+- 🌱 Open source contributor to Fiber and Nuclei
 - 📊 I also enjoy algorithms and systems design
 - 🧠 Always learning through open source contributions
 - 🌏 Based in Japan
@@ -20,6 +21,10 @@ Welcome to my GitHub profile!
 - Zenn: https://zenn.dev/jamesbob
 - Codeberg: https://codeberg.org/james-yusuke
 
+## 🌱 Open Source
+
+- Contributor to Fiber (Go web framework)
+- Contributor to Nuclei (security scanner)
 ---
 
 Thanks for visiting 🚀
