@@ -21,6 +21,7 @@ Welcome to my GitHub profile!
 - GitHub: https://github.com/james-yusuke
 - Zenn: https://zenn.dev/jamesbob
 - Codeberg: https://codeberg.org/james-yusuke
+- Blog: https://blog.yecov.com/
 
 ## 🌱 Open Source
 
