@@ -6,9 +6,7 @@ Welcome to my GitHub profile!
 - 🧩 Programming language researcher and systems developer
 - 🔐 Interested in cybersecurity, vulnerability research, and secure software
 - 💻 Building programming languages, compilers, and developer tools
-- 🌱 Open source contributor
-- 📊 I also enjoy algorithms and systems design
-- 🧠 Always learning through open source contributions
+- 🌱 Open source contributorsource contributions
 - 🌏 Based in Japan
 
 ## 🛠️ Tech Stack
