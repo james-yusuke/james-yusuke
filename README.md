@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm James Yusuke(yuu)
+# 👋 Hi there, I'm James Yusuke(Yuu)
 
 Welcome to my GitHub profile!
 
