@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 🌏 Based in Japan
 
 ## 🛠️ Tech Stack
-- Languages: C/C++, Go, JavaScript/TypeScript
+- Languages: C/C++, Go, JavaScript/TypeScript, kotlin, swift
 - Interests: Programming Languages, Compiler Design, Cybersecurity
 - Tools: Git, Docker, Linux, AWS
 
