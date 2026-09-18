@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 ## 🛠️ Tech Stack
 - Languages: C/C++, Go, Python, JavaScript/TypeScript, Kotlin, Swift
 - Interests: Programming Languages, Compiler Design, Cybersecurity
-- Tools: Git, Docker, Linux, AWS
+- Tools: Git, Docker, Linux
 
 ## 📫 Contact
 - Email: james-yusuke@yecov.com
